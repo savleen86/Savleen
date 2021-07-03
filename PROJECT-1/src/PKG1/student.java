@@ -7,6 +7,7 @@ public class student {
 	
 	public void display1()
 	{
+		System.out.println("HELLO!!");
 		System.out.println("WELCOME ALL");
 		
 	}
