@@ -4,7 +4,7 @@ public class Toyota
 {
 	public void color()
 	{
-		System.out.println("Color is Black");
+		System.out.println("Color is White");
 	}
 	public void price()
 	{
